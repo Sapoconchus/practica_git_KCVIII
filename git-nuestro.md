@@ -1,4 +1,6 @@
-**Git nuestro**
+**Credo del Geek**
+
+Git nuestro
 
 *Git* nuestro que estas en los repos
 
